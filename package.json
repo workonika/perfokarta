@@ -1,0 +1,24 @@
+{
+  "name": "perfokarta",
+  "version": "1.0.0",
+  "description": "library for creating qr-code on encoded data",
+  "main": "./root/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/workonika/perfokarta.git"
+  },
+  "keywords": [
+    "qr-code",
+    "perfokarta",
+    "matrix-code"
+  ],
+  "author": "Kuzmin Anton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/workonika/perfokarta/issues"
+  },
+  "homepage": "https://github.com/workonika/perfokarta#readme"
+}
